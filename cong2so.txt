@@ -1,0 +1,6 @@
+echo" Chuong trình tính t?ng hai s? a và b"
+echo "a="
+echo "b="
+read "b="
+c=$(($a+$b))
+echo "kq:$a+$b=$c"
